@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Firaol Muluneh</h1>
 <h3 align="center">
-A passionate <span style="color:#ff6347">Full-Stack Web Developer</span> who loves building real-world projects from scratch.<br>
-Electronics & Communication Engineering Student at Adama Science and Technology University | <span style="color:#1e90ff">Cybersecurity, Software & Web Development Enthusiast</span>
+A passionate <span style="color:#ff6347">Software Developer</span> who loves building real-world projects from scratch.<br>
+I'm Electronics & Communication Engineering Student at Adama Science and Technology University | <span style="color:#1e90ff">Cybersecurity, Software & Web Development Enthusiast</span>
 </h3>
 
 ---
