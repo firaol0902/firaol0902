@@ -1,90 +1,72 @@
-# 👋 Hi, I'm Firaol Muluneh
+<div align="center">
 
-### Full-Stack Developer | Software Developer | Cybersecurity Enthusiast
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="90" alt="Wave GIF"/>
 
-I build modern, responsive, and scalable web applications, working across both frontend and backend development. I'm passionate about solving real-world problems through technology, continuously improving my engineering skills, and exploring the world of cybersecurity.
+  # Hi 👋, I'm Firaol Muluneh
+  ### **Full-Stack Developer** & Electronics & Communication Engineering Student
 
-🎓 Electronics & Communication Engineering Student at **Adama Science and Technology University (ASTU)**.
+  <p align="center">
+    <a href="https://github.com/firaol0902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://instagram.com/nullforge_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="mailto:mulunehfraol@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🔭 About Me
 
-- 💻 Full-Stack Developer passionate about building end-to-end web applications.
-- 🌱 Continuously learning and exploring modern software development technologies.
-- 🔐 Interested in cybersecurity, web security, and secure application development.
-- 🧠 Focused on strengthening my problem-solving and software engineering skills.
-- 🎯 Goal: Become a versatile software engineer capable of building impactful solutions.
-- ☕ Fun fact: I'm an overthinker who turns ideas into projects.
-- 📫 Reach me at **[mulunehfraol@gmail.com](mailto:mulunehfraol@gmail.com)**
+- 💻 **Full-Stack Developer** building complete web applications and full-stack systems from the ground up.
+- 🎓 **Electronics & Communication Engineering Student** at **Adama Science and Technology University (ASTU)**.
+- 🛡️ **Tech Interests:** Full-Stack Web Development, Cybersecurity (picoCTF & security challenges), and Algorithmic Problem Solving.
+- 🌱 **Currently Building & Learning:** Containerized Full-Stack Apps (Docker), Advanced MERN stack architecture, and Web Security.
+- 🎯 **Fun fact:** I'm over-thinker who hates over-thinkers 😁. Just kidding!!!
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Programming Languages
+### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
 </p>
 
-### Frontend Development
+### **Frontend & Backend Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,sass,tailwind" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
-### Backend Development
+### **Databases, DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### Development Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firaol0902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaol0902&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firaol0902&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Firaol's GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=firaol0902&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:mulunehfraol@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/nullforge_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/firaol0902">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.topcoder.com/members/0000">
-    <img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaol0902&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Great software is built through curiosity, consistency, and the willingness to keep learning."</i>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 </p>
