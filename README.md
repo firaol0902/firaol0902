@@ -1,74 +1,90 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100"/>
+# 👋 Hi, I'm Firaol Muluneh
+
+### Full-Stack Developer | Software Developer | Cybersecurity Enthusiast
+
+I build modern, responsive, and scalable web applications, working across both frontend and backend development. I'm passionate about solving real-world problems through technology, continuously improving my engineering skills, and exploring the world of cybersecurity.
+
+🎓 Electronics & Communication Engineering Student at **Adama Science and Technology University (ASTU)**.
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer passionate about building end-to-end web applications.
+- 🌱 Continuously learning and exploring modern software development technologies.
+- 🔐 Interested in cybersecurity, web security, and secure application development.
+- 🧠 Focused on strengthening my problem-solving and software engineering skills.
+- 🎯 Goal: Become a versatile software engineer capable of building impactful solutions.
+- ☕ Fun fact: I'm an overthinker who turns ideas into projects.
+- 📫 Reach me at **[mulunehfraol@gmail.com](mailto:mulunehfraol@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,bash" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Firaol Muluneh</h1>
-<h3 align="center">
-A passionate <span style="color:#ff6347">Software Developer</span> who loves building real-world projects from scratch.<br>
-I'm Electronics & Communication Engineering Student at Adama Science and Technology University | <span style="color:#1e90ff">Cybersecurity, Software & Web Development Enthusiast</span>
-</h3>
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,sass,tailwind" />
+</p>
 
----
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
+</p>
 
-## 🔭 About Me
-- 💻 I build amazing web apps, experiment with new frameworks, and explore cybersecurity concepts.  
-- 🌱 Currently learning **Advanced Full-Stack Development, Web Security, and Cloud Technologies**.  
-- 🎯 Fun fact: I’m an over-thinker who turns ideas into projects 😎☕  
-- 📫 Reach me at: **mulunehfraol@gmail.com**  
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
----
-
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://instagram.com/nullforge_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"/></a>
-  <a href="https://www.topcoder.com/members/0000" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="40" width="40"/></a>
+### Development Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
 </p>
 
 ---
 
-## 🛠 My Skills
+## 📊 GitHub Statistics
 
-<table align="center">
-<tr>
-<th align="center">Programming Languages</th>
-<th align="center">Frameworks & Libraries</th>
-<th align="center">Databases</th>
-<th align="center">Tools & Platforms</th>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>  
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>  
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>  
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>  
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50"/>  
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>  
-</td>
-<td align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>  
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firaol0902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaol0902&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=firaol0902&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:mulunehfraol@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nullforge_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/firaol0902">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.topcoder.com/members/0000">
+    <img src="https://img.shields.io/badge/Topcoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <i>"Great software is built through curiosity, consistency, and the willingness to keep learning."</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
 </p>
